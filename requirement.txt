@@ -1,0 +1,7 @@
+streamlit
+langchain
+langchain-google-genai
+mysql-connector-python
+python-dotenv
+streamlit-authenticator
+PyYAML
